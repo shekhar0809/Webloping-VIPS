@@ -1,0 +1,29 @@
+html {
+    background-color: #edc7b7;
+}
+
+.head {
+    font-size: 1.7em;
+    padding: 20px;
+}
+
+img {
+    width: 300px;
+    height: auto;
+}
+
+.container {
+    position: relative;
+    justify-content: center;
+}
+
+.image {
+    position: relative;
+    text-align: center;
+    margin: auto;
+
+}
+
+p {
+    padding: 40px;;
+}
